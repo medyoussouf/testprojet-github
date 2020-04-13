@@ -1,10 +1,10 @@
 <?php
     	session_start();
 	// variable declaration
-    $name="";
-	$username = "";
-    $password="";
-	$email    = "";
+    $name = "";
+    $username = "";
+    $password = "";
+    $email = "";
     $errors = array(); 
 	$_SESSION['success'] = "";
 
