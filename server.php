@@ -8,13 +8,6 @@
     $errors = array(); 
 	$_SESSION['success'] = "";
 
-     $itemname="";
-     $price="";
-     $amount="";
-     $exp_d="";
-     $type="";
-     $notes="";
-
     $db=mysqli_connect('localhost','root','','testproject');
 
 
