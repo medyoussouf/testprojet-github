@@ -6,7 +6,7 @@
     $password = "";
     $email = "";
     $errors = array(); 
-	$_SESSION['success'] = "";
+    $_SESSION['success'] = "";
 
     $db=mysqli_connect('localhost','root','','testproject');
 
