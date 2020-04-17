@@ -1,0 +1,92 @@
+/*CSS doc*/
+body
+{
+	background-image: url('b.jpg');
+}
+#header_area
+{
+	width: 100%;
+	height: 190px;
+	margin: 0 auto;
+	margin-top: 0px;
+	
+}
+
+#contenu
+{
+	
+	
+	min-height: 500px;
+	overflow: auto;
+	width: 100%;
+}
+
+#footer
+{
+	width: 100%;
+	clear: both;
+	height: 100px;
+	
+
+}
+.menu ul li
+{
+	list-style: none;
+	display: inline;
+	margin: 5px;
+}
+.menu ul a
+{
+	color: white;
+	margin: 5px;
+	padding: 3px;
+	text-decoration: none;
+}
+.menu ul a:hover
+{
+	color: #1f637a;
+	text-decoration: underline;
+}
+
+
+.input{
+	margin: 5px 0px 5px 0px;
+}
+
+.input input{
+border-radius: 5px 5px 5px 5px;
+height: 20px;
+width:93%;
+padding: 5px 10px;
+font-size: 18px;
+text-align: left;
+
+}
+.input label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+
+.btn{
+padding:10px;
+font-size:10px;
+color: white;
+background: #9690b0;
+border:none;
+border-radius:5px;
+}
+p
+{
+	margin : 20px 40px;
+	font-family: geneva;
+	color: white;
+}
+#reg
+{
+	width: 500px;
+}
+#form
+{
+	margin-right: 40px;
+}
